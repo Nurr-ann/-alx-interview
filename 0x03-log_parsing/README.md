@@ -1,4 +1,4 @@
-Curriculum <br>
+ddCurriculum <br>
 **Short Specializations** <br>
 
 # 0x03. Log Parsing
